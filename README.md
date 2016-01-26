@@ -1,5 +1,5 @@
 # DataScience Projects
-This repository contains 3 Data Analysis projects. Each project is described in more detail as follows:
+This repository contains 3 Data Analysis projects. Each folder also consists a report incorporating the findings in each project. Each project is described in more detail as follows:
 
 1. Stack Overflow Question Recommendation System - A recommendation system for Stack Overflow Data to recommend previously answered similar questions for the current post. Evaluation method involved comparing the system generated recommendations with duplicate marked questions suggested by stack overflow.Using distance similarity measures such as Jaccard Similarity, TF-IDF combined with cosine similarity and accuracy of 64% was achieved. Topic Modelling approach - LDA was utilised as the higher model where topics were extracted using MLE. It further improved the accuracy to 71%. Naive Bayes classifier was used to predict if a post is duplicate of the other post. Python was primarily used as the development platform, and text analysis modules - nltk and scikit-learn were employed widely.
 
